@@ -5,7 +5,7 @@ This is actually not a Graphics Card, rather than a Graphics Output from an FPGA
 If you put a VGA female output on a breakout-board and connect a monitor to it, you will see a square or a dot,
 moving around and bouncing of off the screen's edges.
 
-#Usage
+# Usage
 The project can be configured in the generic of the basicVGA entity. The initX and Y are the inital position of the object bouncing around.
 The origin of coordinates is the top left corner. The initialXdir and Y are the initial moving direction of the object. 1 means positive and 0 negative
 increment. 
